@@ -28,8 +28,8 @@ print_banner() {
   printf "                       ██   ██    ██   ██         ██         ███   ██     ██        ██    ██   ██         ██      \n";
   printf "                 ████████   ████████   ██         ████████   ███   ██   █████████   ██    ██   ██         ██        \n";
   printf "                                                                                                              \n";
-  printf "                               SUPERZAPI - SISTEMA DE MULTIATENDIMENTO                                \n";
-  printf "                                        www.superzapi.com                                        \n";
+  printf "                                - SISTEMA DE MULTIATENDIMENTO                                \n";
+  printf "                                                                               \n";
   printf "\n"
  
   printf "${NC}";
